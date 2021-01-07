@@ -5,9 +5,9 @@ work_process:
   item:
   - title: Research
     icon: images/icons/plan.png
-    content: '"I always strive to find out what is required of me to deliver the job
+    content: I always strive to find out what is required of me to deliver the job
       at hand as this gives you context of the required job and an insight into the
-      desired deliverable."'
+      desired deliverable.
   - title: Plan, Design and Develop
     icon: images/icons/design.png
     content: |-
