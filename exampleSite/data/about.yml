@@ -1,7 +1,7 @@
 ---
 work_process:
   enable: true
-  title: Work Process
+  title: Workflow
   item:
   - title: Research
     icon: images/icons/plan.png
