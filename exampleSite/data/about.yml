@@ -20,7 +20,7 @@ work_process:
       client. Their satisfaction means a lot to me and my skills as I always strive
       to be and deliver better than I did yesterday."'
 team:
-  enable: true
+  enable: false
   title: My Team
   team_member:
   - title: Jack Schenziwe
