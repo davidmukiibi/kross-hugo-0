@@ -49,7 +49,7 @@ education:
     year: "2015"
     academy: Osmania University, India
 service:
-  enable: true
+  enable: false
   title: Services
   item:
   - title: UI Design
@@ -72,7 +72,7 @@ portfolio:
   title: Portfolio
   item_show: "5"
 testimonial:
-  enable: true
+  enable: false
   title: Testimonials
   item:
   - name: Jesica Gomez
@@ -123,5 +123,5 @@ clients_logo_slider:
   - logo: images/clients-logo/client-logo-5.png
     URL: "#"
 blog:
-  enable: true
+  enable: false
   title: Blogs
