@@ -11,9 +11,9 @@ work_process:
   - title: Plan, Design and Develop
     icon: images/icons/design.png
     content: |-
-      "After researching, I have to design a solution as i see fit, which I later relay to the client to seek clarity if the proposed solution will solve their problem statement. This gives me more insight into what the desired solution should be like.
+      After researching, I have to design a solution as i see fit, which I later relay to the client to seek clarity if the proposed solution will solve their problem statement. This gives me more insight into what the desired solution should be like.
 
-      I repeat this until the client is satisfied and then I go ahead and develop the final solution."
+      I repeat this until the client is satisfied and then I go ahead and develop the final solution.
   - title: Deliver
     icon: images/icons/print.png
     content: '"This is my best part of it all. Delivering the final product to the
