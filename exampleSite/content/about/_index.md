@@ -3,11 +3,14 @@ title: "About"
 description: "This is meta description."
 author_image : "images/about/author.jpg"
 author_signature : "images/about/signature.png"
+author : "David Mukiibi"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+To that effect, I strive to always share what I learn and as such I contribute to the Andela way publication on Medium.com. I hold a Bachelors Degree in Computer Applications from Osmania University. With 2.5 years of experience in software development.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+I have worked with Python (Django and Flask) applications using PostgreSQL as the Database and ReactJS as the consuming client. Furthermore, I have migrated Ruby-on-Rails, ReactJS and NodeJS applications from Heroku (PaaS) to Google Compute Engine (IaaS) and Amazon Web Services with multi-cloud hosting while implementing the same fluidity and efficiency of a PaaS with zero downtime and a 3 minute Blue Green deployment window on VMs.
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+My cloud experience spans GCP, AWS, Heroku, with both VMs and containers technologies. The building blocks of my Mjölnir include Terraform, Packer, Ansible, Docker, CircleCI, Github, Gitlab, Bitbucket, Google Stackdriver, Cloudwatch, New Relic, Kubernetes, Jenkins, Google Cloud build and Datadog.
+
+And last but certainly not least, the languages I speak include: Python, Go, Bash.
