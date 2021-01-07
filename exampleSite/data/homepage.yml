@@ -17,7 +17,7 @@ skill:
     progress: 98%
     color: "#fdb157"
   - title: Cloud Infrstructure Design
-    progress: 80%
+    progress: 90%
     color: "#9473e6"
   - title: Problem Solving
     progress: 99%
@@ -30,17 +30,21 @@ experience:
   title: Experience
   item:
   - logo: images/experience/icon-1.png
-    title: Junior UX Designer
-    company: WEBEX
-    duration: Jan 2007 - Feb 2009
+    title: Junior DevOps Engineer
+    company: Casebook PBC
+    duration: May 2018 - November 2018
   - logo: images/experience/icon-2.png
-    title: UX & UI Designer
-    company: AUGMEDIX
-    duration: Mar 2009 - Aug 2014
+    title: Site Reliability Engineer
+    company: Andela
+    duration: May 2019 - July 2019
   - logo: images/experience/icon-1.png
-    title: Senior UI Designer
-    company: THEMEFISHER
-    duration: Sep 2014 - Present
+    title: DevOps Engineer
+    company: Pluto TV
+    duration: November 2019 - Present
+  - logo: images/experience/icon-1.png
+    title: Golang Engineer
+    company: CloudExpat
+    duration: June 2020 - May 2020
 education:
   enable: true
   title: Education
