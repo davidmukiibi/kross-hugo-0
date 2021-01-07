@@ -13,7 +13,7 @@ skill:
   enable: true
   title: Skills
   item:
-  - title: Automation
+  - title: DevOps Practices
     progress: 98%
     color: "#fdb157"
   - title: Cloud Infrstructure Design
