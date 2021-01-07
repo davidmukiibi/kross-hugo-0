@@ -16,9 +16,9 @@ work_process:
       I repeat this until the client is satisfied and then I go ahead and develop the final solution.
   - title: Deliver
     icon: images/icons/print.png
-    content: '"This is my best part of it all. Delivering the final product to the
-      client. Their satisfaction means a lot to me and my skills as I always strive
-      to be and deliver better than I did yesterday."'
+    content: This is my best part of it all. Delivering the final product to the client.
+      Their satisfaction means a lot to me and my skills as I always strive to be
+      and deliver better than I did yesterday.
 team:
   enable: false
   title: My Team
