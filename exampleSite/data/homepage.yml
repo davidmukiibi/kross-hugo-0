@@ -32,7 +32,7 @@ experience:
   - logo: images/experience/icon-1.png
     title: Junior DevOps Engineer
     company: Casebook PBC
-    duration: May 2018 - November 2018
+    duration: May 2018 - Nov 2018
   - logo: images/experience/icon-2.png
     title: Site Reliability Engineer
     company: Andela
@@ -40,9 +40,9 @@ experience:
   - logo: images/experience/icon-1.png
     title: DevOps Engineer
     company: Pluto TV
-    duration: November 2019 - Present
+    duration: Nov 2019 - Present
   - logo: images/experience/icon-1.png
-    title: Golang Engineer
+    title: Senior Golang Engineer
     company: CloudExpat
     duration: June 2020 - May 2020
 education:
