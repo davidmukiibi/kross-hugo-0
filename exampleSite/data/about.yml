@@ -8,10 +8,12 @@ work_process:
     content: '"I always strive to find out what is required of me to deliver the job
       at hand as this gives you context of the required job and an insight into the
       desired deliverable."'
-  - title: Design and Develop
+  - title: Plan, Design and Develop
     icon: images/icons/design.png
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: |-
+      "After researching, I have to design a solution as i see fit, which I later relay to the client to seek clarity if the proposed solution will solve their problem statement. This gives me more insight into what the desired solution should be like.
+
+      I repeat this until the client is satisfied and then I go ahead and develop the final solution."
   - title: Deliver
     icon: images/icons/print.png
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
