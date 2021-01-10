@@ -36,5 +36,11 @@ clients_logo_slider:
   enable: true
   title: My Clients
   item:
+  - logo: ti-andela
+    URL: andela.com
+  - logo: ti-casebook-pbc
+    URL: casebook.org
+  - logo: ti-pluto-tv
+    URL: pluto.tv
   - logo: tl-upwork
     URL: Upwork.com
