@@ -38,9 +38,9 @@ clients_logo_slider:
   item:
   - logo: ti-andela
     URL: andela.com
-  - logo: ''
-    URL: ''
-  - logo: ''
-    URL: ''
+  - logo: ti-casebook-pbc
+    URL: casebook.org
+  - logo: ti-pluto-tv
+    URL: pluto.tv
   - logo: tl-upwork
     URL: Upwork.com
