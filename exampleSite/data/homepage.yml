@@ -104,8 +104,12 @@ testimonial:
       consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
       esse cillum dolore eu fugiat nulla pariatur.
 clients_logo_slider:
-  enable: false
+  enable: true
   item:
+  - logo: images/clients-logo/client-logo-12.png
+    URL: "#"
+  - logo: images/clients-logo/client-logo-11.png
+    URL: "#"
   - logo: images/clients-logo/client-logo-1.png
     URL: http://examplesite.com
   - logo: images/clients-logo/client-logo-2.png
@@ -116,15 +120,15 @@ clients_logo_slider:
     URL: "#"
   - logo: images/clients-logo/client-logo-5.png
     URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-1.png
+  - logo: images/clients-logo/client-logo-6.png
     URL: "#"
-  - logo: images/clients-logo/client-logo-2.png
+  - logo: images/clients-logo/client-logo-7.png
     URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-3.png
+  - logo: images/clients-logo/client-logo-8.png
     URL: "#"
-  - logo: images/clients-logo/client-logo-4.png
+  - logo: images/clients-logo/client-logo-9.png
     URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-5.png
+  - logo: images/clients-logo/client-logo-10.png
     URL: "#"
 blog:
   enable: false
