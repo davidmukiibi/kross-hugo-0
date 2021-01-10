@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "mukiibi"
+title = "dm"
 [[menu.main]]
 URL = "about"
 name = "About"
@@ -20,24 +20,24 @@ URL = "contact"
 name = "Contact"
 weight = 4
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
-copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+address = "Nairobi, Kenya"
+author = "David Mukiibi"
+copyright = "Copyright &copy; 2021 a theme by [gethugothemes](https://gethugothemes.com)"
 description = "This is meta description"
-email = "steve.fruits@email.com"
+email = "david.carson.ug@gmail.com"
 google_analytics_id = ""
 home = "Home"
 logo = ""
-phone = "+880 2544 658 256"
+phone = "+254 798 885 210"
 theme_color = "#41228e"
 [params.contact]
 enable = true
 form_action = "#"
 [params.cookies]
-enable = true
+enable = false
 expire_days = 2
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
@@ -62,14 +62,11 @@ link = "plugins/google-map/map.js"
 enable = true
 preloader = "images/preloader.gif"
 [[params.social]]
-URL = "#"
-icon = "ti-facebook"
+URL = "https://www.linkedin.com/david-mukiibi"
+icon = "ti-linkedin"
 [[params.social]]
-URL = "#"
-icon = "ti-instagram"
+URL = "https://github.com/davidmukiibi"
+icon = "ti-github"
 [[params.social]]
-URL = "#"
-icon = "ti-dribbble"
-[[params.social]]
-URL = "#"
+URL = "https://twitter.com/davidcarson02"
 icon = "ti-twitter-alt"
