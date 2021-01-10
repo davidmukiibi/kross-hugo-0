@@ -106,14 +106,22 @@ testimonial:
 clients_logo_slider:
   enable: true
   item:
+  - logo: images/clients-logo/client-logo-5.png
+    URL: https://www.casebook.net
+  - logo: images/clients-logo/client-logo-6.png
+    URL: https://andela.com
+  - logo: images/clients-logo/client-logo-7.png
+    URL: https://www.pluto.tv
+  - logo: images/clients-logo/client-logo-8.png
+    URL: https://www.upwork.com
   - logo: images/clients-logo/client-logo-1.png
-    URL: http://examplesite.com
+    URL: https://www.upwork.com
   - logo: images/clients-logo/client-logo-2.png
-    URL: "#"
+    URL: https://www.pluto.tv
   - logo: images/clients-logo/client-logo-3.png
-    URL: http://examplesite.com
+    URL: https://www.casebook.net
   - logo: images/clients-logo/client-logo-4.png
-    URL: "#"
+    URL: https://andela.com
 blog:
   enable: false
   title: Blogs
