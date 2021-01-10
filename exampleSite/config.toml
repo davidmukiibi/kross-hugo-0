@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "dm"
+title = "..."
 [[menu.main]]
 URL = "about"
 name = "About"
